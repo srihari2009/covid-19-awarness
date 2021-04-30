@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;700&display=swap');
+*{
+  padding:0 ;
+   margin:0 ;
+
+}
+body {
+    font-family: 'Inconsolata',
+    monospace;
+    background-image: url(https://www.fda.gov/files/Coronavirus_3D_illustration_by_CDC_1600x900.png);background-size: cover;
+    }
+
+    form {
+        background-color: white;
+        margin: 2% 10%;
+        padding: 50px;
+        opacity: 0.8;
+        border-radius: 20px;
+        }
+
+        h1 {
+            font-size: 50px;
+            margin-top: 20px;
+            color: white;
+            }
+            #button {
+                padding: 8px;
+                background-color: crimson;
+                font-weight: bold;
+                color: white;
+                border-radius: 4px;
+                }
+                label {
+                    font-size: 20px;
+                    }
